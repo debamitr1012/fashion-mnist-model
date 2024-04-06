@@ -1,1 +1,1 @@
-# fashion-mnist-model
+# Fashion-MNIST-PyTorch-Computer-Vision
